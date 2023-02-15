@@ -1,5 +1,6 @@
 using System.Text;
 using API.Data;
+using API.Extensions;
 using API.Interfaces;
 using API.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -11,33 +12,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllers();
 
-// Add DbContext service to the container and configure it to use Sqlite so that it can be used thoroughout the program. 
-builder.Services.AddDbContext<DataContext>(options =>
-{
-    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
-});
+// Moving application services to ApplicationServiceExtensions and using it here.
+builder.Services.AddApplicationServices(builder.Configuration);
 
-// Add Cors service to the container.
-builder.Services.AddCors();
-
-// creating interface for service is useful when we want to test the service and is a good practice.
-builder.Services.AddScoped<ITokenService, TokenService>();
-
-// Add Authentication service to the container that uses JwtBearerDefaults.AuthenticationScheme having few options.
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options => {
-    options.TokenValidationParameters = new TokenValidationParameters
-    {
-        // ValidateIssuerSigningKey is used to validate the signature of the token.
-        ValidateIssuerSigningKey = true,
-        
-        // IssuerSigningKey store the key that is used to sign the token.
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["TokenKey"])),
-        
-        ValidateIssuer = false,
-
-        ValidateAudience = false
-    };
-});
+// Moving identity services to IdentityServiceExtensions and using it here.
+builder.Services.AddIdentityServices(builder.Configuration);
 
 // app is the object that will be used to configure the request pipeline.
 var app = builder.Build();
