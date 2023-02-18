@@ -22,7 +22,7 @@ namespace API.Controllers
         // POST api/account/register
         // This method is used to register a new user.
         [HttpPost("register")]
-        public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto)
+        public async Task<ActionResult<UserTokenDto>> Register(RegisterDto registerDto)
         {
 
             // Check if the user already exists.
@@ -46,8 +46,8 @@ namespace API.Controllers
             // Save the changes to the database.
             await _context.SaveChangesAsync();
 
-            // return the userDto
-            return new UserDto 
+            // return the UserTokenDto
+            return new UserTokenDto 
             {
                 Username = user.UserName,
                 Token = _tokenService.CreateToken(user)
@@ -57,7 +57,7 @@ namespace API.Controllers
         // POST api/account/login
         // This method is used to login a user.
         [HttpPost("login")]
-        public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
+        public async Task<ActionResult<UserTokenDto>> Login(LoginDto loginDto)
         {
 
             // Get the user from the database.
@@ -83,8 +83,8 @@ namespace API.Controllers
                 if (computedHash[i] != user.PasswordHash[i]) return Unauthorized("Invalid Password");
             }
 
-            // if the user is found and password is correct, return the userDto.
-            return new UserDto 
+            // if the user is found and password is correct, return the UserTokenDto.
+            return new UserTokenDto 
             {
                 Username = user.UserName,
                 Token = _tokenService.CreateToken(user)

@@ -585,3 +585,15 @@ namespace API.Controllers
     }
 }
 
+-----------------------------
+Extensions
+
+Creating Extensions folder and adding
+    1. ApplicationServiceExtensions => Holds the application related services
+    2. IdentityServiceExtensions => Holds the identity related services
+
+    Move code from Program.cs file to respected service extension and add 
+    them to Program.cs file using a single line.
+
+-----------------------------------------------------------------------------------------------------------
+Error Handling

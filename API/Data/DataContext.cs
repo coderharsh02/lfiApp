@@ -11,7 +11,11 @@ namespace API.Data
         }
 
         // AppUser is how we refer to user in our code but database would create a table called Users same as DbSet name.
-        public DbSet<AppUser> Users { get; set; } 
-        
+        // _context.Users refers to this DbSet.
+        public DbSet<AppUser> Users { get; set; }
+
+        // Donation is how we refer to donation in our code but database would create a table called Donations same as DbSet name.
+        // _context.Donations refers to this DbSet.
+        public DbSet<Donation> Donations { get; set; }
     }
 }

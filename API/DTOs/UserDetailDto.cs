@@ -1,11 +1,9 @@
-namespace API.Entities
+namespace API.DTOs
 {
-    public class AppUser
+    public class UserDetailDto
     {
-        public int Id { get; set; }
+        public int UserId { get; set; }
         public string UserName { get; set; }
-        public byte[] PasswordHash { get; set; }
-        public byte[] PasswordSalt { get; set; }
         public string Name { get; set; }
         public string DonorType { get; set; }
         public string VolunteerType { get; set; }
@@ -14,14 +12,5 @@ namespace API.Entities
         public string City { get; set; }
         public int Pincode { get; set; }
         public string PhoneNumber { get; set; }
-        
-        int GetTotalMealsDonated()
-        {
-            return 99;
-        }
-        int GetTotalMealsCollected()
-        {
-            return 99;
-        }
     }
 }

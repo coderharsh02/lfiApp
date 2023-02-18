@@ -1,11 +1,7 @@
-using System.Text;
 using API.Data;
 using API.Extensions;
-using API.Interfaces;
-using API.Services;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+using API.Middleware;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,11 +17,13 @@ builder.Services.AddIdentityServices(builder.Configuration);
 // app is the object that will be used to configure the request pipeline.
 var app = builder.Build();
 
+// ExceptionMiddleware is used to handle exceptions.
+app.UseMiddleware<ExceptionMiddleware>();
+
 // app.UseCors() is used to allow cross-origin requests.
 app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
 // First we need to use authentication and then authorization.
-
 // UseAuthentication() authenticates if the user is valid or not.
 app.UseAuthentication();
 
@@ -35,4 +33,22 @@ app.UseAuthorization();
 // Configure the HTTP request pipeline.
 app.MapControllers();
 
+
+// Seeding the database.
+using var scope = app.Services.CreateScope();
+var services = scope.ServiceProvider;
+try 
+{
+    var context = services.GetRequiredService<DataContext>();
+    await context.Database.MigrateAsync();
+    await Seed.SeedUsers(context);
+    await Seed.SeedDonations(context);
+}
+catch (Exception ex)
+{
+    var logger = services.GetService<ILogger<Program>>();
+    logger.LogError(ex, "An error occurred during migration");
+}
+
+// Run the app.
 app.Run();

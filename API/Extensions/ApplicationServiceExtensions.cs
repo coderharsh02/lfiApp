@@ -20,7 +20,7 @@ namespace API.Extensions
 
             // creating interface for service is useful when we want to test the service and is a good practice.
             services.AddScoped<ITokenService, TokenService>();
-
+            services.AddScoped<IRepository, Repository>();
             return services;
         }
     }
