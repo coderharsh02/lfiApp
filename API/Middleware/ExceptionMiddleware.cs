@@ -1,3 +1,4 @@
+#nullable enable
 using System.Text.Json;
 using API.Errors;
 namespace API.Middleware
@@ -24,11 +25,11 @@ namespace API.Middleware
             {
                 _logger.LogError(ex, ex.Message);
                 context.Response.ContentType = "application/json";
-                context.Response.StatusCode = ((ApiException?)ex).StatusCode;
+                context.Response.StatusCode = ((ApiException)ex).StatusCode;
 
                 var response = _env.IsDevelopment()
-                    ? new ApiException(context.Response.StatusCode, ((ApiException?)ex).Message, ex.StackTrace?.ToString())
-                    : new ApiException(context.Response.StatusCode, ((ApiException?)ex).Message, ((ApiException?)ex).Message);
+                    ? new ApiException(context.Response.StatusCode, ((ApiException)ex).Message, ex.StackTrace?.ToString())
+                    : new ApiException(context.Response.StatusCode, ((ApiException)ex).Message, ((ApiException)ex).Message);
 
                 var options = new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
 

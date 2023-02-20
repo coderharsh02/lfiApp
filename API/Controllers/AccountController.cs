@@ -37,7 +37,15 @@ namespace API.Controllers
             {
                 UserName = registerDto.Username.ToLower(),
                 PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(registerDto.Password)),
-                PasswordSalt = hmac.Key
+                PasswordSalt = hmac.Key,
+                Name = registerDto.Name,
+                DonorType = registerDto.DonorType,
+                VolunteerType = registerDto.VolunteerType,
+                AddressLine1 = registerDto.AddressLine1,
+                AddressLine2 = registerDto.AddressLine2,
+                City = registerDto.City,
+                Pincode = registerDto.Pincode,
+                PhoneNumber = registerDto.PhoneNumber,
             };
 
             // Add the user to the database.

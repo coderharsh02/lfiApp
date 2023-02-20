@@ -34,6 +34,15 @@ namespace API.Data
             return UserDetailDtoFromAppUser(user);
         }
 
+        public async Task<AppUser> GetAppUserByUsernameAsync(string username)
+        {
+            var user = await _context.Users.Where(p => p.UserName == username).SingleOrDefaultAsync();
+
+            if (user == null)throw new ApiException(404, "User Not Found");
+
+            return user;
+        }
+
         // Takes UserName and Return User if Exist else throw 404 Not Found (Donations and Collections is not included) 
         public async Task<UserDetailDto> GetUserByUsernameAsync(string username)
         {
@@ -143,6 +152,15 @@ namespace API.Data
             }
             return DonationDtoList;
         }
+
+        public void UpdateUser(AppUser user)
+        {
+            _context.Entry(user).State = EntityState.Modified;
+        }
         
+        public async Task<bool> SaveAllAsync()
+        {
+            return await _context.SaveChangesAsync() > 0;
+        }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using API.DTOs;
+using API.Entities;
 
 namespace API.Interfaces
 {
@@ -10,6 +11,8 @@ namespace API.Interfaces
     {
         Task<List<UserDetailDto>> GetUsersAsync();
         public Task<UserDetailDto> GetUserByIdAsync(Nullable<int> userId);
+
+        public Task<AppUser> GetAppUserByUsernameAsync(string username);
         public Task<UserDetailDto> GetUserByUsernameAsync(string username);
 
         public Task<List<FullUserDetailsDto>> GetFullUsersAsync();
@@ -35,6 +38,8 @@ namespace API.Interfaces
         // public Task<IEnumerable<DonationDto>> GetDonationsByCollectorId(Nullable<int> collectorId);
         // public Task<IEnumerable<DonationDto>> GetDonationsByStatus(string status);
 
+        public void UpdateUser(AppUser user);
+        public Task<bool> SaveAllAsync();
 
     }
 }
