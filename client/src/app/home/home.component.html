@@ -1,18 +1,79 @@
 <div class="container mt-5">
-    <div *ngIf="!registerMode" style="text-align: center;">
-        <h1>Find your match</h1>
-        <p class="lead">Come on in to view your matches... all you need to do is sign up!</p>
-        <div class="text-center">
-            <button (click)="registerToggle()" class="btn btn-primary btn-lg me-2">Register</button>
-            <button class="btn btn-primary btn-info btn-lg">Learn more</button>
-        </div>
+  <div *ngIf="!registerMode" style="text-align: center">
+    <h1>Lets do the needfull for the society</h1>
+    <p class="lead">
+      Come on in to donate or collect food for the needy ... all you need to do is sign up!
+    </p>
+    <div class="text-center">
+      <button (click)="registerToggle()" class="btn btn-success btn-lg me-2">
+        Register
+      </button>
+      <button class="btn btn-primary btn-info btn-lg">Learn more</button>
     </div>
+  </div>
 
-    <div *ngIf="registerMode" class="container">
-        <div class="row justify-content-center">
-            <div class="col-4">
-                <app-register (cancelRegister)="cancelRegisterMode($event)"></app-register>
-            </div>
-        </div>
+  <div *ngIf="registerMode" class="container">
+    <div class="row justify-content-center">
+      <div class="col-4">
+        <app-register
+          (cancelRegister)="cancelRegisterMode($event)"
+        ></app-register>
+      </div>
     </div>
+  </div>
+
+  <!-- Top donors section -->
+  <div class="top-donors">
+    <h2>Top Donors</h2>
+    <div class="top-donor-row">
+      <div class="top-donor">
+        <img src="https://via.placeholder.com/150" alt="Donor 1" />
+        <h2>Donor 1</h2>
+        <p>Donated 50 meals of food</p>
+      </div>
+      <div class="top-donor">
+        <img src="https://via.placeholder.com/150" alt="Donor 2" />
+        <h2>Donor 2</h2>
+        <p>Donated 30 meals of food</p>
+      </div>
+      <div class="top-donor">
+        <img src="https://via.placeholder.com/150" alt="Donor 3" />
+        <h2>Donor 3</h2>
+        <p>Donated 20 meals of food</p>
+      </div>
+    </div>
+  </div>
+  <!-- Top collectors section -->
+  <div class="top-collectors">
+    <h2>Top Collectors</h2>
+    <div class="top-collector-row">
+      <div class="top-collector">
+        <img src="https://via.placeholder.com/150" alt="Collector 1" />
+        <h2>Collector 1</h2>
+        <p>Collected 40 meals of food</p>
+      </div>
+      <div class="top-collector">
+        <img src="https://via.placeholder.com/150" alt="Collector 2" />
+        <h2>Collector 2</h2>
+        <p>Collected 25 meals of food</p>
+      </div>
+      <div class="top-collector">
+        <img src="https://via.placeholder.com/150" alt="Collector 3" />
+        <h2>Collector 3</h2>
+        <p>Collected 15 meals of food</p>
+      </div>
+    </div>
+  </div>
+  <!-- About us section -->
+  <div class="about-us">
+    <h2>About Us</h2>
+    <p>
+      LetsFeedIndia is a non-profit organization that aims to reduce food waste
+      and fight hunger in India. We connect donors with food collectors to
+      ensure that excess food is distributed to those in need. Our platform is
+      easy to use and we are committed to providing a safe and reliable service
+      to all our users.
+    </p>
+  </div>
+
 </div>
