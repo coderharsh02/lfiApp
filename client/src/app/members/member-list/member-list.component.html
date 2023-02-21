@@ -1,1 +1,8 @@
-<p>member-list works!</p>
+<div class="top-donors">
+    <h2> Top Donors</h2>
+    <div class="top-donor-row">  
+        <ng-container *ngFor="let user of users" >
+            <app-member-card [user]="user"></app-member-card>
+        </ng-container>
+    </div>
+</div> 
