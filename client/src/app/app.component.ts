@@ -1,6 +1,5 @@
-import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { UserToken } from './_models/userToken';
+import { User } from './_models/user';
 import { AccountService } from './_services/account.service';
 
 @Component({
@@ -9,20 +8,18 @@ import { AccountService } from './_services/account.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-
-  constructor(private accountService: AccountService) { }
-
   title = 'LetsFeedIndia!';
 
-  users: any;
+  constructor(private accountService: AccountService) {}
 
-  ngOnInit() {
+  ngOnInit(): void {
     this.setCurrentUser();
   }
 
   setCurrentUser() {
-    const user: UserToken | null = JSON.parse(localStorage.getItem('user')!);
+    const userString = localStorage.getItem('user');
+    if (!userString) return;
+    const user: User = JSON.parse(userString);
     this.accountService.setCurrentUser(user);
   }
-
 }

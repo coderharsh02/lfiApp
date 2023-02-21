@@ -1,6 +1,7 @@
 export interface UserDetail {
     userId: number;
     userName: string;
+    photoUrl: string;
     name: string;
     donorType: string;
     volunteerType: string;
@@ -10,4 +11,3 @@ export interface UserDetail {
     pincode: number;
     phoneNumber: string;
 }
-

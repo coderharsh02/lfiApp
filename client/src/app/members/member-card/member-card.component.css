@@ -1,46 +1,20 @@
-.top-donor {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 300px;
-    margin: 20px;
-    padding: 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    background-color: white;
-}
-
-.top-donor img {
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
-    border-radius: 50%;
-    margin-bottom: 10px;
-}
-
-.top-donor h2 {
-    font-size: 20px;
-    margin-bottom: 10px;
-}
-
-.top-donor p {
-    font-size: 16px;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.top-donor:hover img {
+.card:hover img {
     transform: scale(1.2, 1.2);
     transition-duration: 500ms;
     transition-timing-function: ease-out;
     opacity: 0.7;
 }
 
-.top-donor img {
+.card img {
     transform: scale(1.0, 1.0);
     transition-duration: 500ms;
     transition-timing-function: ease-out;
 }
 
+.card-img-wrapper {
+    overflow: hidden;
+    position: relative;
+}
 
 .member-icons {
     position: absolute;
@@ -52,7 +26,7 @@
     opacity: 0;
 }
 
-.top-donor-img-wrapper:hover .member-icons {
+.card-img-wrapper:hover .member-icons {
     bottom: 0;
     opacity: 1;
 }

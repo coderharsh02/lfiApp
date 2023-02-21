@@ -1,8 +1,5 @@
-<div class="top-donors">
-    <h2> Top Donors</h2>
-    <div class="top-donor-row">  
-        <ng-container *ngFor="let user of users" >
-            <app-member-card [user]="user"></app-member-card>
-        </ng-container>
+<div class="row">
+    <div class="col-2" *ngFor="let member of members">
+        <app-member-card [member]="member"></app-member-card>
     </div>
-</div> 
+</div>
