@@ -71,10 +71,16 @@ namespace API.Controllers
             return Ok(await _repository.GetFullUsersAsync());
         }
 
-        [HttpGet("fullDetails/{id}")]
+        [HttpGet("fullDetails/id/{id}")]
         public async Task<ActionResult<FullUserDetailsDto>>  GetFullUser(int id)
         {
-            return Ok(await _repository.GetFullUserAsync(id));
+            return Ok(await _repository.GetFullUserByIdAsync(id));
+        }
+
+        [HttpGet("fullDetails/username/{username}")]
+        public async Task<ActionResult<FullUserDetailsDto>>  GetFullUser(string username)
+        {
+            return Ok(await _repository.GetFullUserByUsernameAsync(username));
         }
 
         [HttpPut]
@@ -91,7 +97,7 @@ namespace API.Controllers
             user.City = (userUpdateDto.City != null) ? userUpdateDto.City : user.City;
             user.Pincode = (userUpdateDto.Pincode != 0) ? userUpdateDto.Pincode : user.Pincode;
             user.PhoneNumber = (userUpdateDto.PhoneNumber != null) ? userUpdateDto.PhoneNumber : user.PhoneNumber;
-
+            user.PhotoUrl = (userUpdateDto.PhotoUrl != null) ? userUpdateDto.PhotoUrl : user.PhotoUrl;
             _repository.UpdateUser(user);
             
             if (await _repository.SaveAllAsync()) return NoContent();

@@ -1,0 +1,117 @@
+<!-- <form #registerForm="ngForm" (ngSubmit)="register()" autocomplete="off">
+    <h2 class="text-center text-success">Register Now!</h2>
+    <hr>
+    <div class="mb-3">
+        <input type="text"
+            class="form-control"
+            name="username"
+            [(ngModel)]="model.username"
+            placeholder="Username"
+        >
+    </div>
+    <div class="mb-3">
+        <label for="password">Password</label>
+        <input type="password"
+            class="form-control"
+            name="password"`
+            [(ngModel)]="model.password"
+            placeholder="Password"
+        >
+    </div>
+    <div class="text-center">
+        <button class="btn btn-success me-2" type="submit">Register</button>
+        <button class="btn btn-light" type="button" (click)="cancel()">Cancel</button>
+    </div>
+</form> -->
+
+<form #registerForm="ngForm" (ngSubmit)="register()" autocomplete="off">
+    <div class="row align-items-center">
+        <div class="col-25"> <label for="username">Username</label> </div>
+        <div class="col-75"> <input type="text" id="username" name="username" [(ngModel)]="model.userName"
+                placeholder="Your email address.."> </div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col-25"> <label for="name">Name</label> </div>
+        <div class="col-75"> <input type="text" id="name" name="name" [(ngModel)]="model.name"
+                placeholder="Your Name.."> </div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col-25"> <label for="donorType">Donor Type</label> </div>
+        <div class="col-75"> <select id="donorType" name="donorType" [(ngModel)]="model.donorType">
+                <option value="">Select Donor Type</option>
+                <option value="Individual">Individual</option>
+                <option value="Party Plot">Party Plot</option>
+                <option value="Hostel">Hostel</option>
+            </select> </div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col-25"> <label for="volunteerType">Volunteer Type</label>
+        </div>
+        <div class="col-75">
+            <select id="volunteerType" name="volunteerType" [(ngModel)]="model.volunteerType">
+                <option value="">Select Volunteer Type</option>
+                <option value="Individual">Individual</option>
+                <option value="Organization">Organization</option>
+            </select>
+        </div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col-25">
+            <label for="addressLine1">Address Line 1</label>
+        </div>
+        <div class="col-75">
+            <input type="text" id="addressLine1" name="addressLine1" [(ngModel)]="model.addressLine1"
+                placeholder="Your Address Line 1..">
+        </div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col-25">
+            <label for="addressLine2">Address Line 2</label>
+        </div>
+        <div class="col-75">
+            <input type="text" id="addressLine2" name="addressLine2" [(ngModel)]="model.addressLine2"
+                placeholder="Your Address Line 2..">
+        </div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col-25">
+            <label for="pincode">Pincode</label>
+        </div>
+        <div class="col-75">
+            <input type="text" id="pincode" name="pincode" [(ngModel)]="model.pincode" placeholder="Your Pincode..">
+        </div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col-25">
+            <label for="city">City</label>
+        </div>
+        <div class="col-75">
+            <input type="text" id="city" name="city" [(ngModel)]="model.city" placeholder="Your City..">
+        </div>
+    </div>
+
+    <div class="row align-items-center">
+        <div class="col-25">
+            <label for="phoneNumber">Phone Number</label>
+        </div>
+        <div class="col-75">
+            <input type="tel" id="phoneNumber" name="phoneNumber" [(ngModel)]="model.phoneNumber"
+                placeholder="Your Phone Number..">
+        </div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col-25">
+            <label for="password">Password</label>
+        </div>
+        <div class="col-75">
+            <input type="password" id="password" name="password" [(ngModel)]="model.password"
+                placeholder="Your Password..">
+        </div>
+    </div>
+
+    <div class="row align-items-center mt-3" style="text-align: center;">
+        <button class="btn btn-success mb-1" type="submit">Register</button>
+        <button class="btn btn-secondary" type="button" (click)="cancel()">Cancel</button>
+        <!-- <input type="submit" value="Submit"> -->
+    </div>
+</form>

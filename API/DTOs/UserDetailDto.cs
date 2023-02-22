@@ -12,5 +12,6 @@ namespace API.DTOs
         public string City { get; set; }
         public int Pincode { get; set; }
         public string PhoneNumber { get; set; }
+        public string PhotoUrl { get; set; }
     }
 }

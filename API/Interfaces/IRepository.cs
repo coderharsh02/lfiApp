@@ -16,8 +16,8 @@ namespace API.Interfaces
         public Task<UserDetailDto> GetUserByUsernameAsync(string username);
 
         public Task<List<FullUserDetailsDto>> GetFullUsersAsync();
-
-        public Task<FullUserDetailsDto> GetFullUserAsync(int userId);
+        public Task<FullUserDetailsDto> GetFullUserByIdAsync(int userId);
+        public Task<FullUserDetailsDto> GetFullUserByUsernameAsync(string username);
 
         // public Task<UserDetailDto> AddUser(UserDetailDto userDetailDto);
         // public Task<UserDetailDto> UpdateUser(UserDetailDto userDetailDto);

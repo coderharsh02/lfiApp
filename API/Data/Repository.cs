@@ -66,7 +66,8 @@ namespace API.Data
                 AddressLine2 = user.AddressLine2,
                 City = user.City,
                 Pincode = user.Pincode,
-                PhoneNumber = user.PhoneNumber
+                PhoneNumber = user.PhoneNumber,
+                PhotoUrl = user.PhotoUrl
             };
         }
         public List<UserDetailDto> UserDetailDtoFromAppUser(List<AppUser> appUsersList)
@@ -84,11 +85,11 @@ namespace API.Data
             List<FullUserDetailsDto> FullUserDetailsDtoList = new List<FullUserDetailsDto>();
             foreach (AppUser user in _context.Users.ToList())
             {
-                FullUserDetailsDtoList.Add(await GetFullUserAsync(user.Id));
+                FullUserDetailsDtoList.Add(await GetFullUserByIdAsync(user.Id));
             }
             return FullUserDetailsDtoList;
         }
-        public async Task<FullUserDetailsDto> GetFullUserAsync(int userId)
+        public async Task<FullUserDetailsDto> GetFullUserByIdAsync(int userId)
         {
             FullUserDetailsDto fudd = new FullUserDetailsDto();
             fudd.User = await GetUserByIdAsync(userId);
@@ -103,6 +104,15 @@ namespace API.Data
                 collection.CollectedBy = null;
             }
             return fudd;
+        }
+
+        public async Task<FullUserDetailsDto> GetFullUserByUsernameAsync(string username)
+        {
+            var user = await _context.Users.Where(p => p.UserName == username).SingleOrDefaultAsync();
+
+            if (user == null)throw new ApiException(404, "User Not Found");
+
+            return await GetFullUserByIdAsync(user.Id);
         }
 
         ////////////////////////////////////////////////// Donations /////////////////////////////////////////////////////////////////////////
