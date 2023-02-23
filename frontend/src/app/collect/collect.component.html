@@ -1,0 +1,21 @@
+<h4>Donations</h4>
+<table class="table" *ngIf="donations?.length > 0">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Donar Name</th>
+            <th scope="col">No Of Meals</th>
+            <th scope="col">Pincode</th>
+            <th scope="col">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let donation of donations; let i = index">
+            <th scope="row"> {{i + 1}} </th>
+            <td>{{donation.donatedBy.name}}</td>
+            <td>{{donation.noOfMeals}}</td>
+            <td>{{donation.donatedBy.pincode}}</td>
+            <td>{{donation.status}}</td>
+        </tr>
+    </tbody>
+</table>

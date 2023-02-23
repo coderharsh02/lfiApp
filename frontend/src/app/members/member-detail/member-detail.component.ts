@@ -16,6 +16,7 @@ export class MemberDetailComponent implements OnInit {
   ngOnInit(): void {
     this.loadMember();
   }
+  
   loadMember() {
     var username = this.route.snapshot.paramMap.get('username');
     if (!username) return;

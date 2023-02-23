@@ -46,6 +46,7 @@ namespace API.Controllers
                 City = registerDto.City,
                 Pincode = registerDto.Pincode,
                 PhoneNumber = registerDto.PhoneNumber,
+                PhotoUrl = registerDto.PhotoUrl
             };
 
             // Add the user to the database.

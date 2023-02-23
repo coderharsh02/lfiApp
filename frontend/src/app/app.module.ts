@@ -21,6 +21,8 @@ import { ServerErrorComponent } from './errors/server-error/server-error.compone
 import { MemberCardComponent } from './members/member-card/member-card.component';
 import { JwtInterceptor } from './_interceptors/jwt.interceptor';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { CollectComponent } from './collect/collect.component';
+import { DonateFormComponent } from './donate-form/donate-form.component';
 
 // import {NgxMaterialTimepickerModule} from 'ngx-material-timepicker';
 
@@ -37,7 +39,9 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     TestErrorComponent,
     NotFoundComponent,
     ServerErrorComponent,
-    MemberCardComponent
+    MemberCardComponent,
+    CollectComponent,
+    DonateFormComponent
   ],
   imports: [
     BrowserAnimationsModule,

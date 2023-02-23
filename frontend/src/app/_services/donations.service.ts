@@ -1,21 +1,21 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { environment } from 'src/environments/environment';
-import { UserDetail } from '../_models/userDetail';
+import { Donation } from '../_models/donation';
 
 @Injectable({
   providedIn: 'root'
 })
-export class MembersService {
+export class DonationsService {
   baseUrl = environment.apiUrl;
 
   constructor(private http: HttpClient) { }
 
-  getMembers() {
-    return this.http.get<UserDetail[]>(this.baseUrl + 'users');
+  getDonations() {
+    return this.http.get<Donation[]>(this.baseUrl + 'donations');
   }
 
-  getMember(username: string | undefined) {
-    return this.http.get<any>(this.baseUrl + 'users/fullDetails/username/' + username);
+  donateNow(donation: Donation) {
+    return this.http.post<any>(this.baseUrl + 'donations', donation);
   }
 }

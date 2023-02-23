@@ -8,17 +8,19 @@ import { Router } from '@angular/router';
 @Injectable({
   providedIn: 'root'
 })
-export class AuthGuard implements CanActivate {
+export class RegisterGuard implements CanActivate {
   constructor(private accountService: AccountService, private toastr: ToastrService, private router: Router) {}
 
   canActivate(): Observable<boolean> {
     return this.accountService.currentUser$.pipe(
       map(user => {
-        if (user) return true;
+        if (user) {
+            this.toastr.warning('Already Registered');
+            this.router.navigateByUrl('/members');
+            return false
+        }
         else {
-          this.toastr.error('You shall not pass! Please Register or Login!');
-          this.router.navigateByUrl('/register');
-          return false
+          return true;
         }
       })
     )

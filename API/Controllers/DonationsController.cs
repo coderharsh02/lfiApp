@@ -1,5 +1,6 @@
 using API.Data;
 using API.DTOs;
+using API.Entities;
 using API.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
@@ -42,6 +43,26 @@ namespace API.Controllers
         {
             int id = (await _repository.GetUserByUsernameAsync(username)).UserId;
             return await GetDonationsByDonorId(id);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<Donation>> AddDonation(DonationFormDto dfd)
+        {
+            var donation = new Donation
+            {
+                NoOfMeals = dfd.NoOfMeals,
+                Status = "Available",
+                DonorId = dfd.DonorId,
+            };
+
+            // Add the user to the database.f
+            _context.Donations.Add(donation);
+
+            // Save the changes to the database.
+            await _context.SaveChangesAsync();
+
+            // return the UserTokenDto
+            return donation;
         }
     }
 }
