@@ -1,5 +1,5 @@
 <h4>Donations</h4>
-<table class="table" *ngIf="donations?.length > 0">
+<!-- <table class="table" *ngIf="donations?.length > 0">
     <thead>
         <tr>
             <th scope="col">#</th>
@@ -18,4 +18,9 @@
             <td>{{donation.status}}</td>
         </tr>
     </tbody>
-</table>
+</table> -->
+
+<ngx-table [configuration]="configuration"
+           [data]="donations"
+           [columns]="columns">
+</ngx-table>

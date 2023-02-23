@@ -25,6 +25,7 @@ import { CollectComponent } from './collect/collect.component';
 import { DonateFormComponent } from './donate-form/donate-form.component';
 
 // import {NgxMaterialTimepickerModule} from 'ngx-material-timepicker';
+import { TableModule } from 'ngx-easy-table';
 
 @NgModule({
   declarations: [
@@ -50,7 +51,8 @@ import { DonateFormComponent } from './donate-form/donate-form.component';
     HttpClientModule,
     FormsModule,
     SharedModule,
-    FontAwesomeModule
+    FontAwesomeModule,
+    TableModule
   ],
   providers: [
     {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true},
