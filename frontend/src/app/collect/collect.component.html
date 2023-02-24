@@ -37,7 +37,7 @@
   <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Mia" #input />
 </mat-form-field>
 
-<table mat-table [dataSource]="dataSource" matSort>
+<table mat-table [dataSource]="dataSource" matSort (matSortChange)="announceSortChange($event)">
   <!-- Position Column -->
   <ng-container matColumnDef="donar-name">
     <th mat-header-cell *matHeaderCellDef mat-sort-header>Donar Name</th>
