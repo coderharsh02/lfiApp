@@ -25,6 +25,7 @@ namespace API.Interfaces
 
         public Task<List<DonationDto>> GetDonationsAsync();
         public Task<DonationDto> GetDonationByIdAsync(int donationId);
+        public Task<Donation> GetDonationEByIdAsync(int donationId);
         public Task<List<DonationDto>> GetDonationsByDonorIdAsync(int donorId);
         public Task<List<DonationDto>> GetDonationsByCollectorIdAsync(int collectorId);
 
@@ -39,6 +40,7 @@ namespace API.Interfaces
         // public Task<IEnumerable<DonationDto>> GetDonationsByStatus(string status);
 
         public void UpdateUser(AppUser user);
+        public void UpdateDonation(Donation donation);
         public Task<bool> SaveAllAsync();
 
     }

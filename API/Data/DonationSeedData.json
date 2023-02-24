@@ -20,7 +20,7 @@
   {
     "Id": 3,
     "NoOfMeals": 39,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -74,7 +74,7 @@
   {
     "Id": 9,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -119,7 +119,7 @@
   {
     "Id": 14,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -128,7 +128,7 @@
   {
     "Id": 15,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -146,7 +146,7 @@
   {
     "Id": 17,
     "NoOfMeals": 48,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -155,7 +155,7 @@
   {
     "Id": 18,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -236,7 +236,7 @@
   {
     "Id": 27,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -272,7 +272,7 @@
   {
     "Id": 31,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -317,7 +317,7 @@
   {
     "Id": 36,
     "NoOfMeals": 23,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -335,7 +335,7 @@
   {
     "Id": 38,
     "NoOfMeals": 48,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -344,7 +344,7 @@
   {
     "Id": 39,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -353,7 +353,7 @@
   {
     "Id": 40,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -380,7 +380,7 @@
   {
     "Id": 43,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -389,7 +389,7 @@
   {
     "Id": 44,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -452,7 +452,7 @@
   {
     "Id": 51,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -461,7 +461,7 @@
   {
     "Id": 52,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -470,7 +470,7 @@
   {
     "Id": 53,
     "NoOfMeals": 30,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -497,7 +497,7 @@
   {
     "Id": 56,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -524,7 +524,7 @@
   {
     "Id": 59,
     "NoOfMeals": 26,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -587,7 +587,7 @@
   {
     "Id": 66,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -605,7 +605,7 @@
   {
     "Id": 68,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -614,7 +614,7 @@
   {
     "Id": 69,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -632,7 +632,7 @@
   {
     "Id": 71,
     "NoOfMeals": 31,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -677,7 +677,7 @@
   {
     "Id": 76,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -695,7 +695,7 @@
   {
     "Id": 78,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -704,7 +704,7 @@
   {
     "Id": 79,
     "NoOfMeals": 41,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -731,7 +731,7 @@
   {
     "Id": 82,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -740,7 +740,7 @@
   {
     "Id": 83,
     "NoOfMeals": 30,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -767,7 +767,7 @@
   {
     "Id": 86,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -776,7 +776,7 @@
   {
     "Id": 87,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -785,7 +785,7 @@
   {
     "Id": 88,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -830,7 +830,7 @@
   {
     "Id": 93,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -839,7 +839,7 @@
   {
     "Id": 94,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -857,7 +857,7 @@
   {
     "Id": 96,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -902,7 +902,7 @@
   {
     "Id": 101,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -911,7 +911,7 @@
   {
     "Id": 102,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -947,7 +947,7 @@
   {
     "Id": 106,
     "NoOfMeals": 39,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -965,7 +965,7 @@
   {
     "Id": 108,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -992,7 +992,7 @@
   {
     "Id": 111,
     "NoOfMeals": 26,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1001,7 +1001,7 @@
   {
     "Id": 112,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1064,7 +1064,7 @@
   {
     "Id": 119,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1082,7 +1082,7 @@
   {
     "Id": 121,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1100,7 +1100,7 @@
   {
     "Id": 123,
     "NoOfMeals": 16,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1118,7 +1118,7 @@
   {
     "Id": 125,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1127,7 +1127,7 @@
   {
     "Id": 126,
     "NoOfMeals": 39,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1145,7 +1145,7 @@
   {
     "Id": 128,
     "NoOfMeals": 18,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1163,7 +1163,7 @@
   {
     "Id": 130,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1181,7 +1181,7 @@
   {
     "Id": 132,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1190,7 +1190,7 @@
   {
     "Id": 133,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1208,7 +1208,7 @@
   {
     "Id": 135,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1226,7 +1226,7 @@
   {
     "Id": 137,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1280,7 +1280,7 @@
   {
     "Id": 143,
     "NoOfMeals": 44,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1289,7 +1289,7 @@
   {
     "Id": 144,
     "NoOfMeals": 50,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1307,7 +1307,7 @@
   {
     "Id": 146,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1316,7 +1316,7 @@
   {
     "Id": 147,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1325,7 +1325,7 @@
   {
     "Id": 148,
     "NoOfMeals": 48,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1334,7 +1334,7 @@
   {
     "Id": 149,
     "NoOfMeals": 11,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1343,7 +1343,7 @@
   {
     "Id": 150,
     "NoOfMeals": 23,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1406,7 +1406,7 @@
   {
     "Id": 157,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1424,7 +1424,7 @@
   {
     "Id": 159,
     "NoOfMeals": 30,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1442,7 +1442,7 @@
   {
     "Id": 161,
     "NoOfMeals": 48,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1451,7 +1451,7 @@
   {
     "Id": 162,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1496,7 +1496,7 @@
   {
     "Id": 167,
     "NoOfMeals": 20,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1559,7 +1559,7 @@
   {
     "Id": 174,
     "NoOfMeals": 21,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1586,7 +1586,7 @@
   {
     "Id": 177,
     "NoOfMeals": 25,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1622,7 +1622,7 @@
   {
     "Id": 181,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1703,7 +1703,7 @@
   {
     "Id": 190,
     "NoOfMeals": 44,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1730,7 +1730,7 @@
   {
     "Id": 193,
     "NoOfMeals": 11,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1739,7 +1739,7 @@
   {
     "Id": 194,
     "NoOfMeals": 44,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1757,7 +1757,7 @@
   {
     "Id": 196,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1766,7 +1766,7 @@
   {
     "Id": 197,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1784,7 +1784,7 @@
   {
     "Id": 199,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1793,7 +1793,7 @@
   {
     "Id": 200,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1811,7 +1811,7 @@
   {
     "Id": 202,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1838,7 +1838,7 @@
   {
     "Id": 205,
     "NoOfMeals": 48,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1847,7 +1847,7 @@
   {
     "Id": 206,
     "NoOfMeals": 23,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1865,7 +1865,7 @@
   {
     "Id": 208,
     "NoOfMeals": 13,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1937,7 +1937,7 @@
   {
     "Id": 216,
     "NoOfMeals": 18,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1964,7 +1964,7 @@
   {
     "Id": 219,
     "NoOfMeals": 39,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1982,7 +1982,7 @@
   {
     "Id": 221,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -1991,7 +1991,7 @@
   {
     "Id": 222,
     "NoOfMeals": 15,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2000,7 +2000,7 @@
   {
     "Id": 223,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2027,7 +2027,7 @@
   {
     "Id": 226,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2081,7 +2081,7 @@
   {
     "Id": 232,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2090,7 +2090,7 @@
   {
     "Id": 233,
     "NoOfMeals": 25,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2117,7 +2117,7 @@
   {
     "Id": 236,
     "NoOfMeals": 20,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2135,7 +2135,7 @@
   {
     "Id": 238,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2144,7 +2144,7 @@
   {
     "Id": 239,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2162,7 +2162,7 @@
   {
     "Id": 241,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2216,7 +2216,7 @@
   {
     "Id": 247,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2225,7 +2225,7 @@
   {
     "Id": 248,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2234,7 +2234,7 @@
   {
     "Id": 249,
     "NoOfMeals": 11,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2306,7 +2306,7 @@
   {
     "Id": 257,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2360,7 +2360,7 @@
   {
     "Id": 263,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2369,7 +2369,7 @@
   {
     "Id": 264,
     "NoOfMeals": 26,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2396,7 +2396,7 @@
   {
     "Id": 267,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2423,7 +2423,7 @@
   {
     "Id": 270,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2450,7 +2450,7 @@
   {
     "Id": 273,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2459,7 +2459,7 @@
   {
     "Id": 274,
     "NoOfMeals": 15,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2486,7 +2486,7 @@
   {
     "Id": 277,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2495,7 +2495,7 @@
   {
     "Id": 278,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2513,7 +2513,7 @@
   {
     "Id": 280,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2612,7 +2612,7 @@
   {
     "Id": 291,
     "NoOfMeals": 39,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2630,7 +2630,7 @@
   {
     "Id": 293,
     "NoOfMeals": 11,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2666,7 +2666,7 @@
   {
     "Id": 297,
     "NoOfMeals": 49,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2675,7 +2675,7 @@
   {
     "Id": 298,
     "NoOfMeals": 18,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2684,7 +2684,7 @@
   {
     "Id": 299,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2711,7 +2711,7 @@
   {
     "Id": 302,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2729,7 +2729,7 @@
   {
     "Id": 304,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2783,7 +2783,7 @@
   {
     "Id": 310,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2810,7 +2810,7 @@
   {
     "Id": 313,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2837,7 +2837,7 @@
   {
     "Id": 316,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2855,7 +2855,7 @@
   {
     "Id": 318,
     "NoOfMeals": 22,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2873,7 +2873,7 @@
   {
     "Id": 320,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2900,7 +2900,7 @@
   {
     "Id": 323,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2918,7 +2918,7 @@
   {
     "Id": 325,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2963,7 +2963,7 @@
   {
     "Id": 330,
     "NoOfMeals": 25,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2981,7 +2981,7 @@
   {
     "Id": 332,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -2999,7 +2999,7 @@
   {
     "Id": 334,
     "NoOfMeals": 50,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3062,7 +3062,7 @@
   {
     "Id": 341,
     "NoOfMeals": 41,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3143,7 +3143,7 @@
   {
     "Id": 350,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3152,7 +3152,7 @@
   {
     "Id": 351,
     "NoOfMeals": 16,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3188,7 +3188,7 @@
   {
     "Id": 355,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3242,7 +3242,7 @@
   {
     "Id": 361,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3278,7 +3278,7 @@
   {
     "Id": 365,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3296,7 +3296,7 @@
   {
     "Id": 367,
     "NoOfMeals": 11,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3305,7 +3305,7 @@
   {
     "Id": 368,
     "NoOfMeals": 15,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3314,7 +3314,7 @@
   {
     "Id": 369,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3332,7 +3332,7 @@
   {
     "Id": 371,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3350,7 +3350,7 @@
   {
     "Id": 373,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3377,7 +3377,7 @@
   {
     "Id": 376,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3395,7 +3395,7 @@
   {
     "Id": 378,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3422,7 +3422,7 @@
   {
     "Id": 381,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3431,7 +3431,7 @@
   {
     "Id": 382,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3458,7 +3458,7 @@
   {
     "Id": 385,
     "NoOfMeals": 21,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3467,7 +3467,7 @@
   {
     "Id": 386,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3494,7 +3494,7 @@
   {
     "Id": 389,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3503,7 +3503,7 @@
   {
     "Id": 390,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3539,7 +3539,7 @@
   {
     "Id": 394,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3557,7 +3557,7 @@
   {
     "Id": 396,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3575,7 +3575,7 @@
   {
     "Id": 398,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3611,7 +3611,7 @@
   {
     "Id": 402,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3629,7 +3629,7 @@
   {
     "Id": 404,
     "NoOfMeals": 22,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3638,7 +3638,7 @@
   {
     "Id": 405,
     "NoOfMeals": 18,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3656,7 +3656,7 @@
   {
     "Id": 407,
     "NoOfMeals": 30,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3683,7 +3683,7 @@
   {
     "Id": 410,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3719,7 +3719,7 @@
   {
     "Id": 414,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3728,7 +3728,7 @@
   {
     "Id": 415,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3746,7 +3746,7 @@
   {
     "Id": 417,
     "NoOfMeals": 41,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3773,7 +3773,7 @@
   {
     "Id": 420,
     "NoOfMeals": 25,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3782,7 +3782,7 @@
   {
     "Id": 421,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3836,7 +3836,7 @@
   {
     "Id": 427,
     "NoOfMeals": 36,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3845,7 +3845,7 @@
   {
     "Id": 428,
     "NoOfMeals": 44,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3863,7 +3863,7 @@
   {
     "Id": 430,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3872,7 +3872,7 @@
   {
     "Id": 431,
     "NoOfMeals": 20,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3881,7 +3881,7 @@
   {
     "Id": 432,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3926,7 +3926,7 @@
   {
     "Id": 437,
     "NoOfMeals": 50,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3971,7 +3971,7 @@
   {
     "Id": 442,
     "NoOfMeals": 35,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3980,7 +3980,7 @@
   {
     "Id": 443,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -3989,7 +3989,7 @@
   {
     "Id": 444,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4007,7 +4007,7 @@
   {
     "Id": 446,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4025,7 +4025,7 @@
   {
     "Id": 448,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4070,7 +4070,7 @@
   {
     "Id": 453,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4079,7 +4079,7 @@
   {
     "Id": 454,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4088,7 +4088,7 @@
   {
     "Id": 455,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4115,7 +4115,7 @@
   {
     "Id": 458,
     "NoOfMeals": 15,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4178,7 +4178,7 @@
   {
     "Id": 465,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4187,7 +4187,7 @@
   {
     "Id": 466,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4241,7 +4241,7 @@
   {
     "Id": 472,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4259,7 +4259,7 @@
   {
     "Id": 474,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4295,7 +4295,7 @@
   {
     "Id": 478,
     "NoOfMeals": 25,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4385,7 +4385,7 @@
   {
     "Id": 488,
     "NoOfMeals": 21,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4430,7 +4430,7 @@
   {
     "Id": 493,
     "NoOfMeals": 16,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4457,7 +4457,7 @@
   {
     "Id": 496,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4475,7 +4475,7 @@
   {
     "Id": 498,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4484,7 +4484,7 @@
   {
     "Id": 499,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4493,7 +4493,7 @@
   {
     "Id": 500,
     "NoOfMeals": 22,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4529,7 +4529,7 @@
   {
     "Id": 504,
     "NoOfMeals": 21,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4556,7 +4556,7 @@
   {
     "Id": 507,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4592,7 +4592,7 @@
   {
     "Id": 511,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4619,7 +4619,7 @@
   {
     "Id": 514,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4646,7 +4646,7 @@
   {
     "Id": 517,
     "NoOfMeals": 22,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4664,7 +4664,7 @@
   {
     "Id": 519,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4673,7 +4673,7 @@
   {
     "Id": 520,
     "NoOfMeals": 44,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4808,7 +4808,7 @@
   {
     "Id": 535,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4844,7 +4844,7 @@
   {
     "Id": 539,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4862,7 +4862,7 @@
   {
     "Id": 541,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4880,7 +4880,7 @@
   {
     "Id": 543,
     "NoOfMeals": 36,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4907,7 +4907,7 @@
   {
     "Id": 546,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4943,7 +4943,7 @@
   {
     "Id": 550,
     "NoOfMeals": 35,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4979,7 +4979,7 @@
   {
     "Id": 554,
     "NoOfMeals": 49,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -4988,7 +4988,7 @@
   {
     "Id": 555,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5015,7 +5015,7 @@
   {
     "Id": 558,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5024,7 +5024,7 @@
   {
     "Id": 559,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5042,7 +5042,7 @@
   {
     "Id": 561,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5051,7 +5051,7 @@
   {
     "Id": 562,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5069,7 +5069,7 @@
   {
     "Id": 564,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5096,7 +5096,7 @@
   {
     "Id": 567,
     "NoOfMeals": 20,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5105,7 +5105,7 @@
   {
     "Id": 568,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5114,7 +5114,7 @@
   {
     "Id": 569,
     "NoOfMeals": 31,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5123,7 +5123,7 @@
   {
     "Id": 570,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5141,7 +5141,7 @@
   {
     "Id": 572,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5177,7 +5177,7 @@
   {
     "Id": 576,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5186,7 +5186,7 @@
   {
     "Id": 577,
     "NoOfMeals": 36,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5204,7 +5204,7 @@
   {
     "Id": 579,
     "NoOfMeals": 16,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5222,7 +5222,7 @@
   {
     "Id": 581,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5267,7 +5267,7 @@
   {
     "Id": 586,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5285,7 +5285,7 @@
   {
     "Id": 588,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5294,7 +5294,7 @@
   {
     "Id": 589,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5312,7 +5312,7 @@
   {
     "Id": 591,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5330,7 +5330,7 @@
   {
     "Id": 593,
     "NoOfMeals": 16,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5366,7 +5366,7 @@
   {
     "Id": 597,
     "NoOfMeals": 48,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5420,7 +5420,7 @@
   {
     "Id": 603,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5438,7 +5438,7 @@
   {
     "Id": 605,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5456,7 +5456,7 @@
   {
     "Id": 607,
     "NoOfMeals": 13,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5510,7 +5510,7 @@
   {
     "Id": 613,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5564,7 +5564,7 @@
   {
     "Id": 619,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5582,7 +5582,7 @@
   {
     "Id": 621,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5591,7 +5591,7 @@
   {
     "Id": 622,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5609,7 +5609,7 @@
   {
     "Id": 624,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5618,7 +5618,7 @@
   {
     "Id": 625,
     "NoOfMeals": 23,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5627,7 +5627,7 @@
   {
     "Id": 626,
     "NoOfMeals": 36,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5672,7 +5672,7 @@
   {
     "Id": 631,
     "NoOfMeals": 18,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5681,7 +5681,7 @@
   {
     "Id": 632,
     "NoOfMeals": 39,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5699,7 +5699,7 @@
   {
     "Id": 634,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5726,7 +5726,7 @@
   {
     "Id": 637,
     "NoOfMeals": 49,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5744,7 +5744,7 @@
   {
     "Id": 639,
     "NoOfMeals": 13,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5771,7 +5771,7 @@
   {
     "Id": 642,
     "NoOfMeals": 48,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5789,7 +5789,7 @@
   {
     "Id": 644,
     "NoOfMeals": 16,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5807,7 +5807,7 @@
   {
     "Id": 646,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5834,7 +5834,7 @@
   {
     "Id": 649,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5861,7 +5861,7 @@
   {
     "Id": 652,
     "NoOfMeals": 18,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5888,7 +5888,7 @@
   {
     "Id": 655,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5915,7 +5915,7 @@
   {
     "Id": 658,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5924,7 +5924,7 @@
   {
     "Id": 659,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -5969,7 +5969,7 @@
   {
     "Id": 664,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6032,7 +6032,7 @@
   {
     "Id": 671,
     "NoOfMeals": 30,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6059,7 +6059,7 @@
   {
     "Id": 674,
     "NoOfMeals": 44,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6068,7 +6068,7 @@
   {
     "Id": 675,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6077,7 +6077,7 @@
   {
     "Id": 676,
     "NoOfMeals": 23,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6095,7 +6095,7 @@
   {
     "Id": 678,
     "NoOfMeals": 36,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6158,7 +6158,7 @@
   {
     "Id": 685,
     "NoOfMeals": 49,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6167,7 +6167,7 @@
   {
     "Id": 686,
     "NoOfMeals": 22,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6176,7 +6176,7 @@
   {
     "Id": 687,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6185,7 +6185,7 @@
   {
     "Id": 688,
     "NoOfMeals": 39,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6239,7 +6239,7 @@
   {
     "Id": 694,
     "NoOfMeals": 15,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6248,7 +6248,7 @@
   {
     "Id": 695,
     "NoOfMeals": 43,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6275,7 +6275,7 @@
   {
     "Id": 698,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6293,7 +6293,7 @@
   {
     "Id": 700,
     "NoOfMeals": 31,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6302,7 +6302,7 @@
   {
     "Id": 701,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6329,7 +6329,7 @@
   {
     "Id": 704,
     "NoOfMeals": 14,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6338,7 +6338,7 @@
   {
     "Id": 705,
     "NoOfMeals": 30,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6365,7 +6365,7 @@
   {
     "Id": 708,
     "NoOfMeals": 11,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6428,7 +6428,7 @@
   {
     "Id": 715,
     "NoOfMeals": 49,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6455,7 +6455,7 @@
   {
     "Id": 718,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6464,7 +6464,7 @@
   {
     "Id": 719,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6527,7 +6527,7 @@
   {
     "Id": 726,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6554,7 +6554,7 @@
   {
     "Id": 729,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6626,7 +6626,7 @@
   {
     "Id": 737,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6635,7 +6635,7 @@
   {
     "Id": 738,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6644,7 +6644,7 @@
   {
     "Id": 739,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6662,7 +6662,7 @@
   {
     "Id": 741,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6689,7 +6689,7 @@
   {
     "Id": 744,
     "NoOfMeals": 31,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6716,7 +6716,7 @@
   {
     "Id": 747,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6761,7 +6761,7 @@
   {
     "Id": 752,
     "NoOfMeals": 37,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6788,7 +6788,7 @@
   {
     "Id": 755,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6797,7 +6797,7 @@
   {
     "Id": 756,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6842,7 +6842,7 @@
   {
     "Id": 761,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6851,7 +6851,7 @@
   {
     "Id": 762,
     "NoOfMeals": 41,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6860,7 +6860,7 @@
   {
     "Id": 763,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6887,7 +6887,7 @@
   {
     "Id": 766,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6959,7 +6959,7 @@
   {
     "Id": 774,
     "NoOfMeals": 20,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -6977,7 +6977,7 @@
   {
     "Id": 776,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7049,7 +7049,7 @@
   {
     "Id": 784,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7067,7 +7067,7 @@
   {
     "Id": 786,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7175,7 +7175,7 @@
   {
     "Id": 798,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7184,7 +7184,7 @@
   {
     "Id": 799,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7202,7 +7202,7 @@
   {
     "Id": 801,
     "NoOfMeals": 49,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7211,7 +7211,7 @@
   {
     "Id": 802,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7238,7 +7238,7 @@
   {
     "Id": 805,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7274,7 +7274,7 @@
   {
     "Id": 809,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7301,7 +7301,7 @@
   {
     "Id": 812,
     "NoOfMeals": 15,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7310,7 +7310,7 @@
   {
     "Id": 813,
     "NoOfMeals": 18,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7337,7 +7337,7 @@
   {
     "Id": 816,
     "NoOfMeals": 13,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7346,7 +7346,7 @@
   {
     "Id": 817,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7355,7 +7355,7 @@
   {
     "Id": 818,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7373,7 +7373,7 @@
   {
     "Id": 820,
     "NoOfMeals": 25,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7436,7 +7436,7 @@
   {
     "Id": 827,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7490,7 +7490,7 @@
   {
     "Id": 833,
     "NoOfMeals": 15,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7553,7 +7553,7 @@
   {
     "Id": 840,
     "NoOfMeals": 50,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7580,7 +7580,7 @@
   {
     "Id": 843,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7589,7 +7589,7 @@
   {
     "Id": 844,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7616,7 +7616,7 @@
   {
     "Id": 847,
     "NoOfMeals": 11,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7634,7 +7634,7 @@
   {
     "Id": 849,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7670,7 +7670,7 @@
   {
     "Id": 853,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7688,7 +7688,7 @@
   {
     "Id": 855,
     "NoOfMeals": 26,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7697,7 +7697,7 @@
   {
     "Id": 856,
     "NoOfMeals": 13,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7706,7 +7706,7 @@
   {
     "Id": 857,
     "NoOfMeals": 31,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7715,7 +7715,7 @@
   {
     "Id": 858,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7724,7 +7724,7 @@
   {
     "Id": 859,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7733,7 +7733,7 @@
   {
     "Id": 860,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7751,7 +7751,7 @@
   {
     "Id": 862,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7832,7 +7832,7 @@
   {
     "Id": 871,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7895,7 +7895,7 @@
   {
     "Id": 878,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7904,7 +7904,7 @@
   {
     "Id": 879,
     "NoOfMeals": 29,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7913,7 +7913,7 @@
   {
     "Id": 880,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7958,7 +7958,7 @@
   {
     "Id": 885,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7967,7 +7967,7 @@
   {
     "Id": 886,
     "NoOfMeals": 26,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -7994,7 +7994,7 @@
   {
     "Id": 889,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8057,7 +8057,7 @@
   {
     "Id": 896,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8066,7 +8066,7 @@
   {
     "Id": 897,
     "NoOfMeals": 25,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8084,7 +8084,7 @@
   {
     "Id": 899,
     "NoOfMeals": 26,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8102,7 +8102,7 @@
   {
     "Id": 901,
     "NoOfMeals": 46,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8120,7 +8120,7 @@
   {
     "Id": 903,
     "NoOfMeals": 26,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8147,7 +8147,7 @@
   {
     "Id": 906,
     "NoOfMeals": 10,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8165,7 +8165,7 @@
   {
     "Id": 908,
     "NoOfMeals": 40,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8183,7 +8183,7 @@
   {
     "Id": 910,
     "NoOfMeals": 19,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8192,7 +8192,7 @@
   {
     "Id": 911,
     "NoOfMeals": 35,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8219,7 +8219,7 @@
   {
     "Id": 914,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8228,7 +8228,7 @@
   {
     "Id": 915,
     "NoOfMeals": 23,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8246,7 +8246,7 @@
   {
     "Id": 917,
     "NoOfMeals": 50,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8255,7 +8255,7 @@
   {
     "Id": 918,
     "NoOfMeals": 36,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8264,7 +8264,7 @@
   {
     "Id": 919,
     "NoOfMeals": 49,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8273,7 +8273,7 @@
   {
     "Id": 920,
     "NoOfMeals": 24,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8354,7 +8354,7 @@
   {
     "Id": 929,
     "NoOfMeals": 13,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8363,7 +8363,7 @@
   {
     "Id": 930,
     "NoOfMeals": 26,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8417,7 +8417,7 @@
   {
     "Id": 936,
     "NoOfMeals": 16,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8444,7 +8444,7 @@
   {
     "Id": 939,
     "NoOfMeals": 28,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8453,7 +8453,7 @@
   {
     "Id": 940,
     "NoOfMeals": 33,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8471,7 +8471,7 @@
   {
     "Id": 942,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8489,7 +8489,7 @@
   {
     "Id": 944,
     "NoOfMeals": 16,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8561,7 +8561,7 @@
   {
     "Id": 952,
     "NoOfMeals": 15,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8570,7 +8570,7 @@
   {
     "Id": 953,
     "NoOfMeals": 38,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8615,7 +8615,7 @@
   {
     "Id": 958,
     "NoOfMeals": 47,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8633,7 +8633,7 @@
   {
     "Id": 960,
     "NoOfMeals": 45,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8660,7 +8660,7 @@
   {
     "Id": 963,
     "NoOfMeals": 27,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8678,7 +8678,7 @@
   {
     "Id": 965,
     "NoOfMeals": 42,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8723,7 +8723,7 @@
   {
     "Id": 970,
     "NoOfMeals": 12,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8732,7 +8732,7 @@
   {
     "Id": 971,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8741,7 +8741,7 @@
   {
     "Id": 972,
     "NoOfMeals": 35,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8759,7 +8759,7 @@
   {
     "Id": 974,
     "NoOfMeals": 44,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8786,7 +8786,7 @@
   {
     "Id": 977,
     "NoOfMeals": 20,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8813,7 +8813,7 @@
   {
     "Id": 980,
     "NoOfMeals": 34,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8867,7 +8867,7 @@
   {
     "Id": 986,
     "NoOfMeals": 17,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8903,7 +8903,7 @@
   {
     "Id": 990,
     "NoOfMeals": 31,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8912,7 +8912,7 @@
   {
     "Id": 991,
     "NoOfMeals": 18,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,
@@ -8939,7 +8939,7 @@
   {
     "Id": 994,
     "NoOfMeals": 32,
-    "Status": "Availabe",
+    "Status": "Available",
     "FeedbackByDonor": null,
     "FeedBackByCollector": null,
     "CollectorId": null,

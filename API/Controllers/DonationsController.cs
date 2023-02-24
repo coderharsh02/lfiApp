@@ -15,7 +15,7 @@ namespace API.Controllers
             _repository = repository;
             _context = context;
         }
-        
+
         // GET api/donations
         [HttpGet]
         public async Task<ActionResult<List<DonationDto>>> GetDonations()
@@ -63,6 +63,27 @@ namespace API.Controllers
 
             // return the UserTokenDto
             return donation;
+        }
+
+        [HttpPut("addcollector")]
+        public async Task<ActionResult> AddCollector(Donation d)
+        {
+            var donation = await _repository.GetDonationEByIdAsync(d.Id);
+
+            if (donation == null) return NotFound();
+
+            if (donation.Status != "Available") return BadRequest("Donation is not available");
+
+            donation.Status = "Collected";
+            donation.CollectorId = d.CollectorId;
+            donation.FeedbackByCollector = d.FeedbackByCollector;
+            donation.FeedbackByDonor = d.FeedbackByDonor;
+            
+            _repository.UpdateDonation(donation);
+
+            if (await _repository.SaveAllAsync()) return NoContent();
+
+            return BadRequest("Failed to update donation");
         }
     }
 }

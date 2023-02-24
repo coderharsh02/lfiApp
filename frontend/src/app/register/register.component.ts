@@ -9,7 +9,10 @@ import { AccountService } from '../_services/account.service';
   styleUrls: ['./register.component.css']
 })
 export class RegisterComponent implements OnInit {
-  model: any = {}
+  model: any = {
+    donorType: "Individual",
+    volunteerType: "Individual"
+  }
 
   constructor(private accountService: AccountService, private router: Router, private toastr: ToastrService) { }
 

@@ -131,6 +131,13 @@ namespace API.Data
             return await DonationDtoFromDonation(donation);
         }
 
+        public async Task<Donation> GetDonationEByIdAsync(int donationId)
+        {
+            var donation = await _context.Donations.FindAsync(donationId);
+            if (donation == null) return null;
+            return donation;
+        }
+
         // Takes donorId and Return List of DonationDto that have same donorId (DonatedBy and CollectedBy is included of Type UserDto)
         public async Task<List<DonationDto>> GetDonationsByDonorIdAsync(int donorId)
         {
@@ -166,6 +173,11 @@ namespace API.Data
         public void UpdateUser(AppUser user)
         {
             _context.Entry(user).State = EntityState.Modified;
+        }
+
+        public void UpdateDonation(Donation donation)
+        {
+            _context.Entry(donation).State = EntityState.Modified;
         }
         
         public async Task<bool> SaveAllAsync()

@@ -18,4 +18,8 @@ export class DonationsService {
   donateNow(donation: Donation) {
     return this.http.post<any>(this.baseUrl + 'donations', donation);
   }
+
+  addCollector(donation: any) {
+    return this.http.put<any>(this.baseUrl + 'donations/addCollector', donation);
+  }
 }
